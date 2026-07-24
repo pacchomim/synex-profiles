@@ -22,5 +22,17 @@
     "ratingAverage": 0,
     "ratingCount": 0,
     "publishedAtUtc": "2026-07-24T01:20:19.864Z"
+  },
+  {
+    "id": "d720b753937b4548a9873a4b731ee2f8",
+    "name": "JN TRAVECO",
+    "game": "Fortnite",
+    "userName": "Admin",
+    "imageUrl": "https://www.pornolandia.xxx/media/photos/247942.jpg",
+    "snapshotJson": "{\r\n  \"ActiveTabName\": \"tabProfile\",\r\n  \"PowerHotkey\": \"Insert\",\r\n  \"ExcludedKeys\": [],\r\n  \"ControllerMappings\": {\r\n    \"LT\": [\r\n      \"Mouse(Right)\"\r\n    ],\r\n    \"RT\": [\r\n      \"Mouse(Left)\"\r\n    ],\r\n    \"LB\": [\r\n      \"Q\"\r\n    ],\r\n    \"RB\": [\r\n      \"G\",\r\n      \"Mouse(Middle)\"\r\n    ],\r\n    \"View\": [\r\n      \"Tab\",\r\n      \"M\",\r\n      \"CapsLock\"\r\n    ],\r\n    \"Menu\": [\r\n      \"Esc\",\r\n      \"F3\"\r\n    ],\r\n    \"Share\": [\r\n      \"O\",\r\n      \"F1\"\r\n    ],\r\n    \"LeftStickTop\": [\r\n      \"W\"\r\n    ],\r\n    \"LeftStickLeft\": [\r\n      \"A\"\r\n    ],\r\n    \"LeftStickRight\": [\r\n      \"D\"\r\n    ],\r\n    \"LeftStickBottom\": [\r\n      \"S\"\r\n    ],\r\n    \"LeftStick\": [\r\n      \"Shift\"\r\n    ],\r\n    \"DPadCenter\": [],\r\n    \"RightStick\": [\r\n      \"Mouse(X1)\",\r\n      \"E\"\r\n    ],\r\n    \"DPadUp\": [\r\n      \"Alt\"\r\n    ],\r\n    \"DPadDown\": [\r\n      \"T\"\r\n    ],\r\n    \"DPadLeft\": [\r\n      \"B\"\r\n    ],\r\n    \"DPadLeftDirectional\": [\r\n      \"B\"\r\n    ],\r\n    \"DPadRight\": [\r\n      \"X\",\r\n      \"K\",\r\n      \"3\"\r\n    ],\r\n    \"B\": [\r\n      \"Ctrl\",\r\n      \"C\"\r\n    ],\r\n    \"Y\": [\r\n      \"1\",\r\n      \"2\",\r\n      \"4\",\r\n      \"Mouse(ScrollUp)\",\r\n      \"Mouse(ScrollDown)\"\r\n    ],\r\n    \"A\": [\r\n      \"Space\"\r\n    ],\r\n    \"X\": [\r\n      \"F\",\r\n      \"R\"\r\n    ]\r\n  },\r\n  \"MouseFieldValues\": {\r\n    \"SensibilidadeXValueBox\": \"0.94\",\r\n    \"SensibilidadeYValueBox\": \"0.94\",\r\n    \"MinDeadzoneValueBox\": \"180\",\r\n    \"MaxDeadzoneValueBox\": \"25200\",\r\n    \"Anti-DeadzoneXValueBox\": \"56\",\r\n    \"Anti-DeadzoneYValueBox\": \"56\",\r\n    \"CurveCodeValueBox\": \"0.0000000,0.9278571,0.8065385,0.0000000\"\r\n  },\r\n  \"MousePreset\": \"Custom\",\r\n  \"CurveCode\": \"0.0000000,0.9278571,0.8065385,0.0000000\",\r\n  \"Macros\": [],\r\n  \"WasMacroEditorOpen\": false,\r\n  \"MacroDraft\": null\r\n}",
+    "downloadCount": 0,
+    "ratingAverage": 0,
+    "ratingCount": 0,
+    "publishedAtUtc": "2026-07-24T01:20:25.016Z"
   }
 ]
